@@ -12,6 +12,6 @@ COPY . .
 
 ENV HOME=/app
 
-RUN yarn install --frozen-lockfile && yarn build
+RUN	yarn install
 
-ENTRYPOINT [ "yarn", "run", "start:dev" ]
+ENTRYPOINT [ "yarn", "run", "start" ]
