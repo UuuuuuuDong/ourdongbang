@@ -26,6 +26,7 @@
 <br/>
 
 <h2 align="center"><a href="https://www.ourdongbang.com">배포 페이지</a></h2>
+<h2 align="center"><a href="https://youtu.be/V3uEfOPQYZ0">프로젝트 소개 영상</a></h2>
 <br/>
 <br/>
 
